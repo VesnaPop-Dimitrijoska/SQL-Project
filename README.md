@@ -77,8 +77,7 @@ Following data should be inserted:
   -	Additionally random vacation days and sickLeaveDays should be generated.
   -	Additionally, vacation days should be between 20 and 30
 
-
-
+Below is ER Diagram from the database:
 ![image](https://github.com/VesnaPop-Dimitrijoska/SQL_Project/assets/144008804/8ff84f94-45b9-4138-98e5-37d73c32d6d8)
 
 # License
